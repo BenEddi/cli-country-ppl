@@ -1,0 +1,14 @@
+{
+  "name": "repo-ben",
+  "version": "1.0.0",
+  "description": "Test CLI",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
